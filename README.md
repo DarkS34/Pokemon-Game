@@ -5,4 +5,4 @@ Steps to run the project:
 
 Contributors to this repository:
 
-🚀@DarkS34 🚀@s-v-x 🚀@loreeue 🚀@mugroso
+🚀@DarkS34 🚀@s-v-x 🚀@loreeue 🚀@alejandroluzuriaga
